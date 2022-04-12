@@ -1,0 +1,12 @@
+.body_background {
+	background-image:url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas {
+   border-style: solid;
+    border-color: darkgray;
+    border-width: 5px;
+    background-color: white;
+}
